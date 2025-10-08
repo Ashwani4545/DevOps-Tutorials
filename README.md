@@ -28,3 +28,27 @@ Introduction to GitHub
 
 
 # Plan with Agile GitHub Projects and Boards
+
+Introduction
+
+Introduction to GitHub Projects and Project boards
+
+Introduction to Azure Boards
+
+Configure projects and teams in Azure DevOps
+
+Link GitHub to Azure Boards
+
+Configure GitHub Projects
+
+Manage work with GitHub Project boards
+
+Customize Project views
+
+Collaborate using team discussions
+
+Design and implement a strategy for feedback cycles
+
+Design and implement source, bug, and quality traceability
+
+Agile Plan and Portfolio Management with Azure Boards
