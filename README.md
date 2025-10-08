@@ -1,6 +1,6 @@
 # DevOps-Tutorials
-# Contents
-Introduction to DevOps
+
+# Introduction to DevOps
 
 What is DevOps?
 
