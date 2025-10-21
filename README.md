@@ -27,7 +27,7 @@ Introduction to Azure Repos
 Introduction to GitHub
 
 
-# Plan with Agile GitHub Projects and Boards
+# Module-2: Plan with Agile GitHub Projects and Boards
 
 Introduction
 
