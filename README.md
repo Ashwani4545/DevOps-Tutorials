@@ -56,3 +56,19 @@ Agile Plan and Portfolio Management with Azure Boards
 
 # Module-2: Introduction to Microsoft Azure Describe cloud concepts
 
+Introduction to Microsoft Azure Fundamentals
+
+Introduction to cloud computing
+
+What is cloud computing
+
+Describe the shared responsibility model
+
+Define cloud models
+
+Describe the consumption-based model
+
+Module assessment
+
+Summary
+
