@@ -52,3 +52,7 @@ Design and implement a strategy for feedback cycles
 Design and implement source, bug, and quality traceability
 
 Agile Plan and Portfolio Management with Azure Boards
+
+
+# Module-2: Introduction to Microsoft Azure Describe cloud concepts
+
