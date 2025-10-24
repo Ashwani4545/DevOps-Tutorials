@@ -72,3 +72,30 @@ Module assessment
 
 Summary
 
+
+# Module-4: Design and implement branch strategies and workflows
+
+Introduction
+
+Explore branch workflow types
+
+Explore feature branch workflow
+
+Explore Git branch model for continuous delivery
+
+Explore GitHub flow
+
+Explore fork workflow
+
+Implement branch merging restrictions
+
+Version Control with Git in Azure Repos
+
+
+# Module-5: Collaborate with pull requests in Azure Repos
+
+Introduction
+
+Collaborate with pull requests
+
+Exercise Azure Repos collaborating with pull requests
