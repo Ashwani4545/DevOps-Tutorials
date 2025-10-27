@@ -144,3 +144,22 @@ Implement automation of Git history documentation
 Configure source control repository permissions using GitHub
 
 Configure GitHub tags to organize repositories
+
+
+# Module-9: Identify technical debt
+
+Introduction
+
+Examine code quality
+
+Examine complexity and quality metrics
+
+Introduction to technical debt
+
+Measure and manage technical debt
+
+Introduction to GitHub Advanced Security
+
+Integrate other code quality tools
+
+Plan effective code reviews
