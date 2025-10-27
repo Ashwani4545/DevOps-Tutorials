@@ -54,7 +54,7 @@ Design and implement source, bug, and quality traceability
 Agile Plan and Portfolio Management with Azure Boards
 
 
-# Module-2: Introduction to Microsoft Azure Describe cloud concepts
+# Module-3: Introduction to Microsoft Azure Describe cloud concepts
 
 Introduction to Microsoft Azure Fundamentals
 
@@ -67,10 +67,6 @@ Describe the shared responsibility model
 Define cloud models
 
 Describe the consumption-based model
-
-Module assessment
-
-Summary
 
 
 # Module-4: Design and implement branch strategies and workflows
@@ -99,3 +95,52 @@ Introduction
 Collaborate with pull requests
 
 Exercise Azure Repos collaborating with pull requests
+
+
+# Module-6: Explore Git hooks
+
+Introduction
+
+Introduction to Git hooks
+
+Implement Git hooks
+
+
+# Module-7: Plan foster inner source
+
+Introduction
+
+Explore foster inner source
+
+Implement the fork workflow
+
+Describe inner source with forks
+
+
+# Module-8: Manage and configure repositories
+
+Introduction
+
+Work with large repositories
+
+Explore monorepo versus multiple repos
+
+Implement a change log
+
+Implement Scalar and cross repo when cross repo sharing
+
+Recover specific data by using Git commands
+
+Purge repository data
+
+Manage releases with GitHub Repos
+
+Automate release notes with GitHub
+
+Create API documentation
+
+Implement automation of Git history documentation
+
+Configure source control repository permissions using GitHub
+
+Configure GitHub tags to organize repositories
